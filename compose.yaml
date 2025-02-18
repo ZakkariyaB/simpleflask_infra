@@ -1,6 +1,6 @@
 services:
     web: 
-      image : zakkariyab/simplecompose
+      image : zakkariyab/simpleflask:v2
       ports:
       - "8000:5000"
     redis:
