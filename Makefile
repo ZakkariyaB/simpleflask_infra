@@ -1,8 +1,5 @@
 repo="https://github.com/ZakkariyaB/simpleflask_infra.git"
 
-clone :
-
-	git clone $repo
 
 pull :
 
